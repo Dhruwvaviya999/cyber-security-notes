@@ -1,0 +1,5 @@
+1) A Typical Day as a Security Analyst Involves:
+    Monitoring activity taking place on the devices and network of the organisation.
+    Investigating unusual or suspicious activity, such as strange logins.
+    Piecing together information to understand what has happened, when, and how.
+    Working with other teams to improve the organisation's defences 
